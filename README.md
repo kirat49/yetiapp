@@ -203,7 +203,7 @@
 
      <!--  <input type="text" id="email" class="email" maxlength="256"/> !-->
 
-        <p class="helper helper1">example@gmail.com</p>   
+       <!-- <p class="helper helper1">example@gmail.com</p>!-->   
         <label for="userInput">User name:</label>
         <input type="text" id="userInput" name="userInput">
 
