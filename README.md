@@ -222,11 +222,16 @@
     </div>
 
     <div class="inputGroup inputGroup3">
+      <!-- Login button -->
+      <button id="login" onclick="showLoginPopup()">Log in</button>
+  </div>
 
-        <button id="login">Log in</button>
-
-
-    </div>  
+  <script>
+      // Function to show popup
+      function showLoginPopup() {
+          alert("You have been loged in");
+      }
+  </script>
 
 </form>
 
